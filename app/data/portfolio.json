@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "siteUrl": "http://localhost:3000",
+    "calendarUrl": "",
+    "email": ""
+  },
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/Chintukr2004",
+      "icon": "github"
+    }
+  ],
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "image": "/gopher.png",
+        "name": "Chintukr2004",
+        "phonetic": "",
+        "noun": "backend developer",
+        "timezone": {
+          "label": "IST",
+          "tz": "Asia/Kolkata"
+        },
+        "intro": [
+          "I'm a Computer Science Engineering student focused on **backend development**.",
+          "I work with **Go** and explore **Node.js, TypeScript, and React**, with an interest in APIs, databases, and building reliable software."
+        ]
+      }
+    },
+    {
+      "type": "techStack",
+      "title": "Technologies",
+      "data": {
+        "categories": [
+          {
+            "name": "Languages",
+            "skills": [
+              {
+                "name": "Go",
+                "slug": "go"
+              },
+              {
+                "name": "TypeScript",
+                "slug": "typescript"
+              },
+              {
+                "name": "JavaScript",
+                "slug": "javascript"
+              }
+            ]
+          },
+          {
+            "name": "Frontend",
+            "skills": [
+              {
+                "name": "React",
+                "slug": "react"
+              }
+            ]
+          },
+          {
+            "name": "Backend & Databases",
+            "skills": [
+              {
+                "name": "Node.js",
+                "slug": "nodedotjs"
+              },
+              {
+                "name": "PostgreSQL",
+                "slug": "postgresql"
+              }
+            ]
+          },
+          {
+            "name": "Tools",
+            "skills": [
+              {
+                "name": "Docker",
+                "slug": "docker"
+              },
+              {
+                "name": "Git",
+                "slug": "git"
+              },
+              {
+                "name": "GitHub",
+                "slug": "github"
+              },
+              {
+                "name": "Linux",
+                "slug": "linux"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "project",
+      "title": "Go REST API",
+      "data": {
+        "name": "student-api",
+        "link": "https://github.com/Chintukr2004/student-api",
+        "subtitle": "Go and PostgreSQL",
+        "body": [
+          "A backend project using **Go** and **PostgreSQL**. See the repository for implementation details."
+        ]
+      }
+    },
+    {
+      "type": "project",
+      "title": "Go REST API",
+      "data": {
+        "name": "REST-API-GOLANG",
+        "link": "https://github.com/Chintukr2004/REST-API-GOLANG",
+        "subtitle": "Go",
+        "body": [
+          "A Go REST API project. See the repository for its current features and setup instructions."
+        ]
+      }
+    },
+    {
+      "type": "project",
+      "title": "Authentication Microservice",
+      "data": {
+        "name": "simple-auth-microservice",
+        "link": "https://github.com/Chintukr2004/simple-auth-microservice",
+        "subtitle": "Authentication",
+        "body": [
+          "A backend microservice project focused on authentication. See the repository for implementation details."
+        ]
+      }
+    },
+    {
+      "type": "project",
+      "title": "Backend Project",
+      "data": {
+        "name": "groundwork-dev",
+        "link": "https://github.com/Chintukr2004/groundwork-dev",
+        "subtitle": "Backend development",
+        "body": [
+          "A backend development project. See the repository for its current implementation."
+        ]
+      }
+    },
+    {
+      "type": "github",
+      "title": "GitHub Contributions",
+      "data": {
+        "username": "Chintukr2004"
+      }
+    },
+    {
+      "type": "contact",
+      "title": "Get in Touch",
+      "data": {
+        "heading": "Let's connect",
+        "subheading": "I'm interested in backend engineering, building useful software, and connecting with other developers.",
+        "ctas": [
+          {
+            "label": "GitHub profile",
+            "href": "https://github.com/Chintukr2004",
+            "icon": "github",
+            "primary": true
+          }
+        ],
+        "socialsLabel": "Find me on"
+      }
+    }
+  ],
+  "posts": []
+}

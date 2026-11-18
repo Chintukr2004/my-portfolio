@@ -2,13 +2,7 @@
 
 A clean, fast personal portfolio built with Next.js. Edit one JSON file, get a full website. 🚀
 
-<p align="center">
-  <img width="700" alt="Portfolio screenshot" src="https://github.com/user-attachments/assets/67dfde3b-577e-4fcb-9f84-aa4824341ece" />
-</p>
-
-The whole site is driven by a single data file: [`app/data/portfolio.json`](app/data/portfolio.json). You write your content there, and the page renders it for you. You should not need to touch any code to make this your own.
-
-It also has two views, toggled with a switch in the bottom bar:
+:
 
 - **Human mode**: the normal, good-looking website.
 - **Agent mode**: the same content as plain Markdown text, friendly for AI agents and scrapers. This is generated from the same JSON, so it can never go out of sync.
